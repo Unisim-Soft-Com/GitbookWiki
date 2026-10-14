@@ -1,0 +1,15 @@
+# Ретейл- инструкция
+
+* [SF(49398) Регистрация товаров (открытие магазина)](sf-49398-registraciya-tovarov-otkrytie-magazina.md)
+* [SF(1209) Оприходования товара](sf-1209-oprikhodovanie-tovara.md)
+* [SF (12009) Безвозмездное поступление товара](sf-12009-bezvozmezdnoe-postuplenie-tovara.md)
+* [SF (1208) Списание товаров/продуктов](sf-1208-spisanie-tovarov-produktov.md)
+* [SF (1405) Списание материалов](sf-1405-spisanie-materialov.md)
+* [SF (1210) Выручка касс](sf-1210-vyruchka-kass.md)
+* SF (1214) [Возврат поставщику](sf-1213-vozvrat-postavshiku..md)
+* [Разблокировка документов на примере SF=12099 Акта приёмки](razblokirovka-dokumentov-na-primere-sf-12099-akta-priyomki.md)
+* [SF (1228) НН с оплатой по перечислению](sf-1222-nn-s-oplatoi-po-perechisleniyu.md)
+* [Импорт по группам](import-po-gruppam..md)
+* [F (1214) Возврат товаров от покупателей](sf-1214-vozvrat-tovarov-ot-pokupatelei.md)
+* [SF (1216) Скидка оприходование товара](sf-1216-skidka-oprikhodovanie-tovara.md)
+* [SF(49398) Регистрация товаров ( открытие магазина)](sf-49398-registraciya-tovarov-otkrytie-magazina.md)
